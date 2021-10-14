@@ -43,7 +43,7 @@ module.exports = {
 	/**
 	 * ===== Display podcasts =====
 	 */
-		 g_showPodcastsList: false,
+	g_showPodcastsList: true,
 
 	/**
 	 * ===== Display podcast links =====

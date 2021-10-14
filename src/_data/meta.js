@@ -1,6 +1,6 @@
 module.exports = {
 	siteURL: process.env.URL || 'http://localhost:8080',
-	siteName: "PodVocasem",
+	siteName: "IT podcast, který rozhodně neplave po povrchu.",
 	siteDescription:
 		'IT podcast, který rozhodně neplave po povrchu.',
 	siteImage: '/assets/images/site/default.png',
