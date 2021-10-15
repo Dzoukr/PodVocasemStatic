@@ -5,7 +5,7 @@ author: podvocasem
 excerpt: Nový IT podcast PodVocasem již 25. října 2021 na všech streamovacích platformách!
 draft: 
 urlSpotify: https://open.spotify.com/episode/0oAjNq2q3bmOJ7IGHTUlHT?si=d66d9f90be1242a1
-urlApple: https://apple.com
+urlApple: https://podcasts.apple.com/us/podcast/s01-upout%C3%A1vka/id1590431276?i=1000538628154
 urlGoogle: https://google.com
 seo:
   title:
@@ -16,7 +16,6 @@ images: # relative to /src/assets/images/
   thumb: site/default.png
   slide:
 tags:
-  - elm
-  - ui
-  - html
+  - s01
+  - teaser
 ---
