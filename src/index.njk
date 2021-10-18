@@ -34,7 +34,7 @@ heroSettings:
 {% if structure.g_showPodcastsList %}
   {% set postslist = posts | reverse %}
 
-  {% set postlist = ['components/postslistcards.njk'] %}
+  {% set postlist = ['components/postslistplayer.njk'] %}
   {% include postlist | join %}
 {% endif %}
 

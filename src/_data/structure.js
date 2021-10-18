@@ -88,6 +88,7 @@ module.exports = {
 	 *  2. postslistblocks = Simple listing w/ Title, Date, Tags, Author (if set)
 	 *  3. postslistthumbs = Same as above with thumbnails
 	 *  4. postslistcards = Nice cards with Author/Date block
+	 *  5. postslistplayer = Nice player
 	 *
 	 * NOTE: If you want to make your own list layouts, you can duplicate
 	 *        any of the existing layouts and modify as you want.
@@ -97,7 +98,7 @@ module.exports = {
 	 *        'postListStyle' and 'tagListStyle.'
 	 *
 	 * */
-	postListStyle: 'postslistcards',
+	postListStyle: 'postslistplayer',
 
 	/**
 	 * ===== Tag List Style Options =====
